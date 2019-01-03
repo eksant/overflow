@@ -19,5 +19,8 @@
     "mongoose": "^5.0.11",
     "redis": "^2.8.0",
     "sendgrid": "^5.2.3"
+  },
+  "devDependencies": {
+    "mime": ">=1.4.1"
   }
 }
